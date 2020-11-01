@@ -1,0 +1,16 @@
+* {
+  font-family: "Josefin Sans", sans-serif;
+  box-sizing: border-box;
+}
+.text-deco {
+  text-decoration: none !important;
+}
+.text-deco:hover {
+  color: white !important;
+}
+.underline {
+  width: 20%;
+  height: 5px;
+  margin: 0 auto;
+  background-color: green;
+}
