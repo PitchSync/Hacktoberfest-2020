@@ -1,0 +1,23 @@
+* {
+  font-family: "Josefin Sans", sans-serif;
+  box-sizing: border-box;
+}
+.min-100 {
+  min-height: 100vh;
+}
+a {
+  text-decoration: none !important;
+  color: #ff73fa !important;
+}
+a:hover {
+  color: #ff73fa !important;
+}
+.underline {
+  width: 20%;
+  height: 5px;
+  margin: 0 auto;
+  background-color: green;
+}
+.text-hacktoberfest {
+  color: #ff73fa;
+}
