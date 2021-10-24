@@ -1,6 +1,25 @@
 * {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   box-sizing: border-box;
+}
+body {
+  background: #f0eadb;
+}
+
+.row {
+  margin: 0;
+  min-height: 100vh;
+
+  align-items: center;
+}
+
+.hacktober {
+  color: #f84700;
+}
+.year {
+  font-size: 5rem;
+  margin: 0 0.5rem;
+  color: #677662;
 }
 .min-100 {
   min-height: 100vh;
