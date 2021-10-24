@@ -4,6 +4,7 @@
 }
 body {
   background: #f0eadb;
+  overflow: hidden;
 }
 
 .row {
@@ -12,31 +13,20 @@ body {
 
   align-items: center;
 }
-
 .hacktober {
   color: #f84700;
+  font-weight: bold;
+  font: 5rem;
 }
 .year {
   font-size: 5rem;
   margin: 0 0.5rem;
   color: #677662;
 }
-.min-100 {
-  min-height: 100vh;
-}
 a {
-  text-decoration: none !important;
-  color: #ff73fa !important;
+  /* text-decoration: none !important; */
+  color: #677662 !important;
 }
 a:hover {
-  color: #ff73fa !important;
-}
-.underline {
-  width: 20%;
-  height: 5px;
-  margin: 0 auto;
-  background-color: green;
-}
-.text-hacktoberfest {
-  color: #ff73fa;
+  color: #f84700 !important;
 }
